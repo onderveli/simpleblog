@@ -5,11 +5,10 @@
 #   gem 'sqlite3'
 #
 development:
-  adapter: mysql2
-  encoding: utf8
-  database: simpleblog
-  pool: 5
-  username: root
-  password:
-  host: localhost
-  socket: /tmp/mysql.sock
+  adapter: postgresql
+  encoding: unicode
+  database: d73kf4thjlug5h
+  pool: 5432
+  host: ec2-23-23-253-106.compute-1.amazonaws.com
+  username: lnhoqixceelqut
+  password: f32738150ed4d5a02985c0101455fe20a3aeaac261b9e4715980005641b02ea7
