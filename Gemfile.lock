@@ -207,7 +207,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   chromedriver-helper
-  ckeditor (= 4.1.3)
+  ckeditor
   coffee-rails (~> 4.2)
   duktape
   jbuilder (~> 2.5)
